@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"min",
+				"min-width"
+			],
+			[
 				"font",
 				"font-family"
 			],
@@ -31,6 +35,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/Users/katiejanelabauve/Desktop/xamweb/index.html",
+			"settings":
+			{
+				"buffer_size": 34915,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "agency.css",
+			"settings":
+			{
+				"buffer_size": 16967,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -81,6 +101,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"#FD9E4D",
+			"rgb",
+			"xamweb",
 			"fed136",
 			"page-",
 			"page",
@@ -118,8 +141,65 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/Users/katiejanelabauve/Desktop/xamweb/index.html",
+					"settings":
+					{
+						"buffer_size": 34915,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3703,
+								3703
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1986.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "agency.css",
+					"settings":
+					{
+						"buffer_size": 16967,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3826,
+								3826
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2817.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -164,6 +244,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"",
+				"css/agency.css"
+			]
 		],
 		"width": 0.0
 	},
