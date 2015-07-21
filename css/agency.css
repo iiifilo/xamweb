@@ -11,7 +11,15 @@ body {
 
 .text-muted {
     color: #777;
-    
+
+}
+
+/*!justify solo servicios en disenanmos optimizamos y traducimos */
+
+.text-muted.just{
+    text-align: justify;
+    margin-top: 10px;
+
 }
 
 .text-primary {
